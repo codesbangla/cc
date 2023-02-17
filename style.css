@@ -1,4 +1,7 @@
 @font-face{
   font-family: 'linkIcon';
-  src: url('../icomoon.woff');
+  src: url('https://linkicon.github.io/f/f.woff');
+}
+div.test{
+font-family: 'linkIcon';
 }
